@@ -1,0 +1,17 @@
+{
+  "name": "knockout-demo1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./node_modules/http-server/bin/http-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "knockout": "^3.4.0"
+  },
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
